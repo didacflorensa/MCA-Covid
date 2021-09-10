@@ -3,3 +3,4 @@ results
 .DS_Store
 r-scripts/.Data
 r-scripts/.RHistory
+notebooks/.ipynb_checkpoints
